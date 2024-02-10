@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Gophers"
+author = "The Golang Guild"
+theme = 'hugo-theme-lean-launch-page'
+
+[params]
+    tagline = "Your gateway to Gopherland. Watch this space!"

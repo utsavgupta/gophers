@@ -1,0 +1,13 @@
+baseurl: "https://themes.gohugo.io/theme/hugo-theme-lean-launch-page/"
+title: "Gophers"
+author: "The Golang Guild"
+canonifyurls: true
+paginate: 3
+
+theme: "hugo-theme-lean-launch-page"
+
+params:
+  tagline: "We're launching soon."
+
+  images:
+    - "favicon.png"
